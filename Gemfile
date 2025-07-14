@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'jazzy', '~> 0.14'
+gem 'jazzy', '~> 0.14', '>= 0.14.3'
